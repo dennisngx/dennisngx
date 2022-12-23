@@ -1,4 +1,4 @@
-[![MasterHead](https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv]
+[![MasterHead]([https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)]
 <h1 align="center">Hi 👋, I'm Dennis Nguyen</h1>
 <h3 align="center">A passionate data engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
