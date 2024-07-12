@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/dennisn_insur" target="blank"><img src="https://img.shields.io/twitter/follow/dennisn_insur?logo=twitter&style=for-the-badge" alt="dennisn_insur" /></a> </p>
 
-- 📫 How to reach me **quangduong.mr@gmail.com**
+- 📫 How to reach me **dennis.nguyen.aus@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
