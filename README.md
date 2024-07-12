@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dennisngx&label=Profile%20views&color=0e75b6&style=flat" alt="dennisngx" /> </p>
 
-<p align="left"> <a href="https://twitter.com/dennisn_insur" target="blank"><img src="https://img.shields.io/twitter/follow/dennisn_insur?logo=twitter&style=for-the-badge" alt="dennisn_insur" /></a> </p>
-
 - 📫 How to reach me **dennis.nguyen.aus@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
